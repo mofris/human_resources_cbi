@@ -20,4 +20,4 @@ Screenshoot Aplikasi HRIS (Human Resourses Informations System) Citra Borneo Ind
 <img src="https://github.com/mofris/human_resources_cbi/blob/master/dokumentasi/dashboard_admin.jpg">
 
 5. Dashboard User By Departement
-<img src="https://github.com/mofris/human_resources_cbi/blob/master/dokumentasi/dashboard_user_fix.JPG">
+<img src="https://github.com/mofris/human_resources_cbi/blob/master/dokumentasi/dashboard_user_fix.jpg">
